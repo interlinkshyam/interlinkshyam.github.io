@@ -241,7 +241,7 @@ h3 span
 .wraper.bg-raw
 {
         background: #1f2b38 url("../img/bg.jpg") no-repeat;
-		background-attachment: fixed;
+		
 		padding-top: 90px;
         color: white;
 		overflow: hidden;
