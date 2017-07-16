@@ -12,7 +12,7 @@ and (max-width: 720px)
 	}
 	.head-els
 	{
-		max-width: 570px;	
+		max-width: 570px;
 		padding-left: 30px;
 		padding-right: 30px;
 	}
@@ -20,7 +20,7 @@ and (max-width: 720px)
 	{
 		display: none;
 	}
-	
+
 	.slide-main, #sequence
 	{
 		height: auto;
@@ -44,7 +44,7 @@ and (max-width: 720px)
 		display: inline-block;
 		top: 20px;
 	}
-	
+
 	.mbl_menu_el
 	{
 		height: 4px;
@@ -52,7 +52,7 @@ and (max-width: 720px)
 		display: block;
 		margin: 5px auto 5px auto;
 		background-color: white;
-		
+
 	}
 	.mbl_menu_cont
 	{
@@ -66,7 +66,7 @@ and (max-width: 720px)
 	}
 	.mbl_menu_cont ul
 	{
-		
+
 		list-style: none;
 		position: absolute;
 		left:-9999px;
@@ -87,7 +87,7 @@ and (max-width: 720px)
 		color: white;
 		border-bottom: 1px lightgray solid;
 		font-size: 35px;
-		
+
 	}
 	.mbl_menu_cont a
 	{
@@ -102,7 +102,7 @@ and (max-width: 720px)
 		height: 160px;
 		max-width: 570px;
 	}
-	
+
 	.intro_buttons li:first-child
 	{
 		margin-bottom: 20px;
@@ -119,7 +119,7 @@ and (max-width: 720px)
 	.feature .horizontal
 	{
 		display: none;
-		
+
 	}
 	.h-mbl
 	{
@@ -135,7 +135,7 @@ and (max-width: 720px)
 	}
 	.sequence-canvas li img
 	{
-		
+
 	}
 	.wraper_bg-bright{
 		background-image: url("../img/bg-bright-mbl.png");
@@ -169,7 +169,7 @@ and (max-width: 720px)
 	{
 		position: relative;
 	}
-	
+
 	.profits
 	{
 		max-width: 370px;
@@ -331,7 +331,7 @@ and (max-width: 720px)
 	{
 		height: 140px;
 	}
-	.f_section  p.last-p 
+	.f_section  p.last-p
 	{
 		padding: 30px 0 60px 0;
 		text-align: center;
@@ -450,7 +450,7 @@ and (max-width: 720px)
 		.counter_cont{
 			width: 384px;
 			margin-top: 20px;
-			
+
 		}
 		.counter_item{
 			padding-bottom: 20px;
@@ -493,13 +493,13 @@ and (max-width: 720px)
 			padding-top: 8px;
 			padding-left: 8px;
 		}
-		
+
 		.intro_h{
 			float: none;
 			height: auto;
 			margin: 10px auto;
 			width: auto;
-			
+
 		}
 		.step.first{
 			margin-top: 50px;
@@ -525,7 +525,7 @@ and (max-width: 720px)
 			display: block;
 			margin: auto;
 			margin-top: 40px;
-			
+
 		}
 		.get_cont{
 			height: auto;
@@ -535,7 +535,7 @@ and (max-width: 720px)
 			display: block;
 			margin: auto;
 		}
-		
+
 		.get_right{
 			margin-top: 30px;
 		}
@@ -584,7 +584,7 @@ and (max-width: 720px)
 			position: absolute;
 			top: 11px;
 		}
-		
+
 		.loan_r{
 			width: auto;
 			height: auto;
@@ -722,11 +722,11 @@ and (max-width: 720px)
 			margin-bottom: -24px;
 		}
 		.address1, .address2{
-			width: 250px;
+			width: 300px;
 		}
-		
-		
-		
+
+
+
 		.service_l:nth-child(1){
 			-webkit-transform: translateX(0px);
 			-moz-transform: translateX(0px);
